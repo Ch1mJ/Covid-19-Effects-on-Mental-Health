@@ -1,0 +1,177 @@
+body {
+  background-color: #B8BFBE;
+}
+
+h2 {
+  color: #B5767E;
+  font-family: fantasy;
+  font-size: 50px;
+  text-align: center;
+}
+
+
+
+h3 {
+  color: #389C8E;
+  font-family: cursive;
+  font-size: 30px;
+  text-align: left;
+}
+
+p {
+  color: #6B2730;
+  font-family: Garamond;
+  font-size: 20px;
+  text-align: left;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#MentalHealth1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#MentalHealth3 {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+
+
+#AboutMeBodyTag {
+  background-color: #389C8E;
+}
+
+#HomeBodyTag {
+background-color: #389C8E;
+}
+
+#ContactBodyTag {
+  background-color: #389C8E;
+}
+
+.one {
+  background-color: #FFFFFF;
+  padding: 23px;
+  margin: 10px;
+}
+
+.oneone {
+  background-color: #EE8434;
+  text-align: center;
+  color: #FFFFFF;
+  padding: 23px;
+  margin: 30px;
+}
+
+.three {
+  text-align: left;
+  color: #FFFFFF;
+  font-family: cursive;
+}
+
+.video1 {
+  display: block;
+  margin: auto;
+}
+
+.video2 {
+  display: block;
+  float: left;
+  padding-left: 100px;
+}
+
+
+.menu {
+  background-color: #6B2730;
+  margin: 0;
+  padding: 0px 500px 0px 567px;
+  float: left;
+}
+
+.menu a {
+  display: block;
+  padding: 14px 16px;
+  text-align: center;
+  color: #FFFFFF;
+  text-decoration: none;
+  float: left;
+}
+
+.menu a:hover {
+  background-color: #EE8434;
+}
+
+h4 {
+  color: #000000;
+  float: center;
+  text-align: center;
+  background-color: #B8BFBE;
+  padding: 30px;
+  Margin: 4px;
+}
+
+#MentalHealth2 {
+float: right;
+padding-right: 75px;
+}
+
+ul {
+  list-style-type: square;
+  color: #6B2730;
+}
+
+.button1 {
+  display: square;
+  height: 30%;
+  border: 2px solid #EE8434;
+  background-color: #EE8434;
+  color: white;
+  font-size: 20px;
+  margin: 62px;
+}
+
+.button2 {
+  display: square;
+  height: 30%;
+  border: 2px solid #EE8434;
+  background-color: #EE8434;
+  color: white;
+  font-size: 20px;
+}
+
+#ContactCenter {
+  text-align: center;
+}
+
+.footerbar {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #6B2730;
+  color: white;
+  text-align: center;
+}
+
+.footerbar a {
+  display: block;
+  padding: 14px 16px;
+  text-align: center;
+  color: #FFFFFF;
+  text-decoration: none;
+  float: left;
+}
+
+.footerbar a:hover {
+  background-color: #EE8434;
+}
